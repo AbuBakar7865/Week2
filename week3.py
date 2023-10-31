@@ -1,5 +1,5 @@
-week 3 practical 1
-ageStr = Input("enter your age")
+
+ageStr = input("enter your age")
 age = int(ageStr)
 
 if age > 100:
@@ -12,5 +12,4 @@ elif age > 40:
     print("you are middle aged")
     print("never mind")
 else:
-    print("you are not very old - yet" )
-
+    print("you are not very old - yet")
